@@ -1,0 +1,2 @@
+# Technigo
+First crappy webpage
